@@ -1,0 +1,15 @@
+{
+  "page": {
+    "header": {
+      "title": "测试"
+    },
+    "today": "今天",
+    "lang": "简体中文"
+  },
+  "menu": {
+    "title": "菜单",
+    "list": {
+      "title": "菜单列表"
+    }
+  }
+}

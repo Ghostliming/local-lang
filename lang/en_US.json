@@ -1,0 +1,15 @@
+{
+  "page": {
+    "header": {
+      "title": "Test"
+    },
+    "today": "Today",
+    "lang": "English"
+  },
+  "menu": {
+    "title": "Menu",
+    "list": {
+      "title": "MenuList"
+    }
+  }
+}

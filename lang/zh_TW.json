@@ -1,0 +1,15 @@
+{
+  "page": {
+    "header": {
+      "title": "測試"
+    },
+    "today": "今天",
+    "lang": "繁體中文"
+  },
+  "menu": {
+    "title": "菜單",
+    "list": {
+      "title": "菜單列表"
+    }
+  }
+}
