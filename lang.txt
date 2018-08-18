@@ -1,24 +1,319 @@
-page.header.title
-测试
-測試
-Test
+page.title
+Fomo3D
 
-page.today
-今天
-今天
-Today
 
-page.lang
-简体中文
-繁體中文
-English
+page.soon
+F3D:SOON
 
-menu.title
-菜单
-菜單
-Menu
 
-menu.list.title
-菜单列表
-菜單列表
-MenuList
+page.long
+F3D: Long
+
+
+page.registName
+Register a name
+
+
+page.registNewName
+Register a new name
+
+
+page.copy
+Copy
+
+
+page.community
+Community
+
+
+page.tutorials
+Tutorials
+
+
+page.teams
+Team JUST
+
+
+page.copyright
+All Rights Reserved.
+
+
+page.misc.title
+Misc
+
+
+page.misc.wiki
+WIKI: Quick Start Guide
+
+
+page.misc.contract
+Contract (F3D Long)
+
+
+page.misc.abc
+ABC
+
+
+page.misc.advice
+Advice-Kit
+
+
+page.content.title
+EXIT SCAMMING
+
+
+page.content.subtitle
+someone else is
+
+
+page.content.getOne
+click it or miss it
+
+
+page.content.buyico
+Buy a key to start a new ICO
+
+
+page.purchase.title
+Purchase
+
+
+page.purchase.keyring
+Keyring
+
+
+page.purchase.tips
+Purchases of .1 ETH or more have a 1.4% chance to win some of the 0.36 ETH airdrop pot, instantly!
+
+
+page.purchase.sendEth
+Send ETH
+
+
+page.purchase.useVault
+Use Vault
+
+
+page.purchase.sendTip
+Send eth, or use earnings from your vault!
+
+
+page.vault.title
+Vault
+
+
+page.vault.subtitle
+Vault
+
+
+page.vault.lockdonw
+On Lockdown
+
+
+page.vault.scammed
+Exit Scammed
+
+
+page.vault.advice
+Bad Advice
+
+
+page.vault.total
+Total Gains
+
+
+page.vault.withdraw
+Withdraw
+
+
+page.vanity.title
+Vanity & Referrals
+
+
+page.vanity.subtitle
+Advisory Board
+
+
+page.vanity.tips
+Advise others to invest in this exit scam and we'll reward you 10% of everything they lose. In Ethereum.
+
+
+page.vanity.wallet
+Wallet Referral 
+
+
+page.vanity.anyonmous
+Anyonmous Referral
+
+
+page.vanity.vanity
+Vanity Referral
+
+
+page.round.title
+Round
+
+
+page.round.subtitle
+Round
+
+
+page.round.drain
+Contract will drain in 
+
+
+page.round.pot
+Active Pot
+
+
+page.round.keys
+Your Keys
+
+
+page.round.earning
+Your Earnings
+
+
+page.team.title
+Choose a Team
+
+
+page.team.snek.title
+Snek
+
+
+page.team.snek.subtitle
+Trickle down Divinomics
+
+
+page.team.snek.notice
+++ Most dividends
+
+
+page.team.whale.title
+Whale
+
+
+page.team.whale.subtitle
+Feed on the greed of others.
+
+
+page.team.whale.notice
+++ Most eth to pot
+
+
+page.team.bull.title
+Bull
+
+
+page.team.bull.subtitle
+Break upwards, never stagnate.
+
+
+page.team.bull.notice
+++ Balanced distribution
+
+
+page.team.bear.title
+Bear
+
+
+page.team.bear.subtitle
+Stand alone, fight alone.
+
+
+page.team.bear.notice
+++ Maximize eth to current round
+
+
+page.steams.title
+Teams
+
+
+page.recent.title
+Recent Players
+
+
+page.recent.subtitle
+Recent Players
+
+
+page.recent.player
+Player
+
+
+page.recent.team
+Team
+
+
+page.recent.amount
+Amount
+
+
+page.recent.comming
+Comming soon
+
+
+page.stats.title
+Stats
+
+
+page.stats.subtitle
+Stats for Round
+
+
+page.stats.current
+Current
+
+
+page.stats.invested
+Total Invested:
+
+
+page.stats.rewards
+Distributed Rewards:
+
+
+page.stats.purchased
+Time Purchased:
+
+
+notice.invalidData
+Invalid Parameter
+参数不合法
+
+notice.sendWithdraw
+
+提现请求已发送，请等待到账
+
+notice.successTrad
+
+交易发起成功
+
+notice.copySuccess
+
+复制成功
+
+notice.checkMetamask
+
+请检查您的Metamaks连接状态，并解锁
+
+notice.installMetamask
+
+请安装Metamasky以获取良好体验
+
+notice.connectNetwork
+
+请连接到主网，并刷新页面。
+
+notice.unlockMetamask
+
+请解锁Metamask，并连接到网络。
+
+notice.connectedTestNetwork
+
+已连接到测试网络
+
+notice.notFound
+404 Not Found
+404 页面未找到

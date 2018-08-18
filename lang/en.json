@@ -1,0 +1,114 @@
+{
+  "page": {
+    "title": "Fomo3D",
+    "soon": "F3D:SOON",
+    "long": "F3D: Long",
+    "registName": "Register a name",
+    "registNewName": "Register a new name",
+    "copy": "Copy",
+    "community": "Community",
+    "tutorials": "Tutorials",
+    "teams": "Team JUST",
+    "copyright": "All Rights Reserved.",
+    "misc": {
+      "title": "Misc",
+      "wiki": "WIKI: Quick Start Guide",
+      "contract": "Contract (F3D Long)",
+      "abc": "ABC",
+      "advice": "Advice-Kit"
+    },
+    "content": {
+      "title": "EXIT SCAMMING",
+      "subtitle": "someone else is",
+      "getOne": "click it or miss it",
+      "buyico": "Buy a key to start a new ICO"
+    },
+    "purchase": {
+      "title": "Purchase",
+      "keyring": "Keyring",
+      "tips": "Purchases of .1 ETH or more have a 1.4% chance to win some of the 0.36 ETH airdrop pot, instantly!",
+      "sendEth": "Send ETH",
+      "useVault": "Use Vault",
+      "sendTip": "Send eth, or use earnings from your vault!"
+    },
+    "vault": {
+      "title": "Vault",
+      "subtitle": "Vault",
+      "lockdonw": "On Lockdown",
+      "scammed": "Exit Scammed",
+      "advice": "Bad Advice",
+      "total": "Total Gains",
+      "withdraw": "Withdraw"
+    },
+    "vanity": {
+      "title": "Vanity & Referrals",
+      "subtitle": "Advisory Board",
+      "tips": "Advise others to invest in this exit scam and we'll reward you 10% of everything they lose. In Ethereum.",
+      "wallet": "Wallet Referral ",
+      "anyonmous": "Anyonmous Referral",
+      "vanity": "Vanity Referral"
+    },
+    "round": {
+      "title": "Round",
+      "subtitle": "Round",
+      "drain": "Contract will drain in ",
+      "pot": "Active Pot",
+      "keys": "Your Keys",
+      "earning": "Your Earnings"
+    },
+    "team": {
+      "title": "Choose a Team",
+      "snek": {
+        "title": "Snek",
+        "subtitle": "Trickle down Divinomics",
+        "notice": "++ Most dividends"
+      },
+      "whale": {
+        "title": "Whale",
+        "subtitle": "Feed on the greed of others.",
+        "notice": "++ Most eth to pot"
+      },
+      "bull": {
+        "title": "Bull",
+        "subtitle": "Break upwards, never stagnate.",
+        "notice": "++ Balanced distribution"
+      },
+      "bear": {
+        "title": "Bear",
+        "subtitle": "Stand alone, fight alone.",
+        "notice": "++ Maximize eth to current round"
+      }
+    },
+    "steams": {
+      "title": "Teams"
+    },
+    "recent": {
+      "title": "Recent Players",
+      "subtitle": "Recent Players",
+      "player": "Player",
+      "team": "Team",
+      "amount": "Amount",
+      "comming": "Comming soon"
+    },
+    "stats": {
+      "title": "Stats",
+      "subtitle": "Stats for Round",
+      "current": "Current",
+      "invested": "Total Invested:",
+      "rewards": "Distributed Rewards:",
+      "purchased": "Time Purchased:"
+    }
+  },
+  "notice": {
+    "invalidData": "Invalid Parameter",
+    "sendWithdraw": "",
+    "successTrad": "",
+    "copySuccess": "",
+    "checkMetamask": "",
+    "installMetamask": "",
+    "connectNetwork": "",
+    "unlockMetamask": "",
+    "connectedTestNetwork": "",
+    "notFound": "404 Not Found"
+  }
+}
