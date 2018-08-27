@@ -9,3 +9,5 @@ node app.js
 输入源数据的文件名（根据当前目录）
 ### Step4 
 生成文件成功，/lang目录下即为生成的文件
+
+[博客地址](http://blog.unknowns.info/2018/08/24/local-lang/)
