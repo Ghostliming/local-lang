@@ -17,17 +17,29 @@ function writeTranslationsToDisk (key, translation,translationFile) {
     })
   })
 }
+/**
+ * [deal description]
+ * @param  {[type]} files    [文件地址数组]
+ * @param  {[type]} langname [语言名称数组]
+ * @return {[type]}          [description]
+ */
  async function deal(files, langname){
+  console.log(langname)
   let filelen = files.length
   for(var i = 0,len = data.length;i<len;i++){
     if(i%(filelen+2) == 0) {
       current = data[i]
       console.log(`  ${data[i]}`.cyan)
     } else if(i%(filelen+2) < (filelen+1)) {
+      let txtsource = data[i]
+      let langindex = i%(filelen+2) - 1
       try{
-        await writeTranslationsToDisk(current, data[i], files[(i+1)%filelen]);
-        let lang = langname[(i+1)%filelen];
-        console.log(`√ ${lang}:${data[i]}`.green)
+        console.log('current:', current)
+        console.log('translation:', data[i])
+        console.log('translationFile:' ,files[langindex])
+        await writeTranslationsToDisk(current, txtsource, files[langindex]);
+        let lang = langname[langindex];
+        console.log(`√ ${lang}:${txtsource}`.green)
       }catch(e){
         console.log(e.message.red)
       }
@@ -42,6 +54,7 @@ async function init(result) {
   console.log('  读取数据源文件…'.green)
   odata = fs.readFileSync(`./${result.url}`)
   data = String(odata).split(/\r?\n/ig)
+  console.log(data.length)
   console.log('√ 数据源文件读取成功'.green)
   console.log('  删除已生成文件…'.green)
   let langFlolder = './lang'

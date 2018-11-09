@@ -1,0 +1,106 @@
+{
+  "quickaward": "quickaward - 以太坊去中心化的智能合約娛樂平台",
+  "components": {
+    "ethers": {
+      "currency-name": "以太幣"
+    },
+    "footer": {
+      "blockhain-friends": "",
+      "email": "",
+      "featured-on": "",
+      "network": "",
+      "our-games": "",
+      "reach-out": "",
+      "smart-contract": "",
+      "your-balance": ""
+    },
+    "top-bar": {
+      "fair-play": "",
+      "games": "",
+      "address": "",
+      "rules": "",
+      "withdraw": ""
+    }
+  },
+  "containers": {
+    "common": {
+      "prizepool": {
+        "total": "",
+        "winning-bet-prize": "",
+        "split-prize": "",
+        "winning-probability": "",
+        "part-in": ""
+      },
+      "game-play": {
+        "submitted": "",
+        "confirmed": "",
+        "bet-confirmed": "",
+        "bet-submitted": "",
+        "play-again": "",
+        "please-confirm-your-tx": "",
+        "you-lost": "",
+        "you-rejected-bet-request": "",
+        "you-won": ""
+      },
+      "history": {
+        "currentList": "",
+        "historyRound": ""
+      },
+      "metamask-hint": {
+        "title": ""
+      },
+      "place-bet": {
+        "button": ""
+      },
+      "web3-required": {
+        "get-metamask": "",
+        "install-metamask": "",
+        "log-in-to-metamask": "",
+        "log-in-to-trust": "",
+        "open-in-trust-wallet": "",
+        "our-games-are-on-mainnet": "",
+        "our-games-are-on-mainnet-settings": "",
+        "please-log-in-to-metamask": "",
+        "please-log-in-to-trust": "",
+        "switch-to-mainnet": "",
+        "use-trust-wallet": "",
+        "we-recommend-trust-wallet": "",
+        "you-need-web3": ""
+      },
+      "bets": {
+        "max": ""
+      }
+    },
+    "fair-play": {
+      "text": ""
+    },
+    "rules": {
+      "text": ""
+    },
+    "home": {
+      "double": "",
+      "ten": "",
+      "hundred": "",
+      "thousand": "",
+      "lottery": "",
+      "h1": "",
+      "h2": "",
+      "play-now": "",
+      "go-now": "",
+      "24h": {
+        "countdown": "",
+        "jackpot": "",
+        "top-winnners": "",
+        "new-wagers": "",
+        "winnners-by": ""
+      }
+    }
+  },
+  "common": {
+    "betType2": "",
+    "betType10": "",
+    "betType100": "",
+    "betType1000": "",
+    "ultimatePrize": ""
+  }
+}

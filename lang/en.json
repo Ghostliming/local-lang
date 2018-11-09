@@ -1,114 +1,106 @@
 {
-  "page": {
-    "title": "Fomo3D",
-    "soon": "F3D:SOON",
-    "long": "F3D: Long",
-    "registName": "Register a name",
-    "registNewName": "Register a new name",
-    "copy": "Copy",
-    "community": "Community",
-    "tutorials": "Tutorials",
-    "teams": "Team JUST",
-    "copyright": "All Rights Reserved.",
-    "misc": {
-      "title": "Misc",
-      "wiki": "WIKI: Quick Start Guide",
-      "contract": "Contract (F3D Long)",
-      "abc": "ABC",
-      "advice": "Advice-Kit"
+  "quickaward": "quickaward - Ethereum  De centralized intelligent contract entertainment platform",
+  "components": {
+    "ethers": {
+      "currency-name": "ETH"
     },
-    "content": {
-      "title": "EXIT SCAMMING",
-      "subtitle": "someone else is",
-      "getOne": "click it or miss it",
-      "buyico": "Buy a key to start a new ICO"
+    "footer": {
+      "blockhain-friends": "Blockchain & friends",
+      "email": "Email",
+      "featured-on": "Featured on",
+      "network": "Network: {network}",
+      "our-games": "Our games",
+      "reach-out": "Reach out to us",
+      "smart-contract": "Smart contract",
+      "your-balance": "Your balance "
     },
-    "purchase": {
-      "title": "Purchase",
-      "keyring": "Keyring",
-      "tips": "Purchases of .1 ETH or more have a 1.4% chance to win some of the 0.36 ETH airdrop pot, instantly!",
-      "sendEth": "Send ETH",
-      "useVault": "Use Vault",
-      "sendTip": "Send eth, or use earnings from your vault!"
-    },
-    "vault": {
-      "title": "Vault",
-      "subtitle": "Vault",
-      "lockdonw": "On Lockdown",
-      "scammed": "Exit Scammed",
-      "advice": "Bad Advice",
-      "total": "Total Gains",
+    "top-bar": {
+      "fair-play": "FAQ",
+      "games": "Games",
+      "address": "Address",
+      "rules": "Game Rules",
       "withdraw": "Withdraw"
-    },
-    "vanity": {
-      "title": "Vanity & Referrals",
-      "subtitle": "Advisory Board",
-      "tips": "Advise others to invest in this exit scam and we'll reward you 10% of everything they lose. In Ethereum.",
-      "wallet": "Wallet Referral ",
-      "anyonmous": "Anyonmous Referral",
-      "vanity": "Vanity Referral"
-    },
-    "round": {
-      "title": "Round",
-      "subtitle": "Round",
-      "drain": "Contract will drain in ",
-      "pot": "Active Pot",
-      "keys": "Your Keys",
-      "earning": "Your Earnings"
-    },
-    "team": {
-      "title": "Choose a Team",
-      "snek": {
-        "title": "Snek",
-        "subtitle": "Trickle down Divinomics",
-        "notice": "++ Most dividends"
-      },
-      "whale": {
-        "title": "Whale",
-        "subtitle": "Feed on the greed of others.",
-        "notice": "++ Most eth to pot"
-      },
-      "bull": {
-        "title": "Bull",
-        "subtitle": "Break upwards, never stagnate.",
-        "notice": "++ Balanced distribution"
-      },
-      "bear": {
-        "title": "Bear",
-        "subtitle": "Stand alone, fight alone.",
-        "notice": "++ Maximize eth to current round"
-      }
-    },
-    "steams": {
-      "title": "Teams"
-    },
-    "recent": {
-      "title": "Recent Players",
-      "subtitle": "Recent Players",
-      "player": "Player",
-      "team": "Team",
-      "amount": "Amount",
-      "comming": "Comming soon"
-    },
-    "stats": {
-      "title": "Stats",
-      "subtitle": "Stats for Round",
-      "current": "Current",
-      "invested": "Total Invested:",
-      "rewards": "Distributed Rewards:",
-      "purchased": "Time Purchased:"
     }
   },
-  "notice": {
-    "invalidData": "Invalid Parameter",
-    "sendWithdraw": "",
-    "successTrad": "",
-    "copySuccess": "",
-    "checkMetamask": "",
-    "installMetamask": "",
-    "connectNetwork": "",
-    "unlockMetamask": "",
-    "connectedTestNetwork": "",
-    "notFound": "404 Not Found"
+  "containers": {
+    "common": {
+      "prizepool": {
+        "total": "",
+        "winning-bet-prize": "Winning the prize",
+        "split-prize": "5 people split the prize pool",
+        "winning-probability": "Winning probability",
+        "part-in": "There are a total of {count} people participating in the game."
+      },
+      "game-play": {
+        "submitted": "Submitted",
+        "confirmed": "Confirmed",
+        "bet-confirmed": "Bet confirmed! Waiting for lottery...",
+        "bet-submitted": "Bet submitted! Waiting for Ethereum...",
+        "play-again": "Play again",
+        "please-confirm-your-tx": "Please confirm bet transaction",
+        "you-lost": "You lost :(",
+        "you-rejected-bet-request": "You rejected bet request :(",
+        "you-won": "You won!"
+      },
+      "history": {
+        "currentList": "<span>{buyer}</span><span>bought</span><span class=\"high-roller\">{ticket}</span><span>TICKET</span>",
+        "historyRound": "<span>{time}</span><span>{winner}</span><span>won</span><span class=\"high-roller\">{prize}</span><span>ETH</span>"
+      },
+      "metamask-hint": {
+        "title": "Please check your Metamask and confirm a pending transaction."
+      },
+      "place-bet": {
+        "button": "BUY TICKET"
+      },
+      "web3-required": {
+        "get-metamask": "Get MetaMask",
+        "install-metamask": "Install MetaMask",
+        "log-in-to-metamask": "Log in to MetaMask",
+        "log-in-to-trust": "Log in to Trust",
+        "open-in-trust-wallet": "Open in Trust Wallet",
+        "our-games-are-on-mainnet": "Our games are available on mainnet only – please switch via Metamask",
+        "our-games-are-on-mainnet-settings": "Our games are available on mainnet only – please change your settings",
+        "please-log-in-to-metamask": "Please log in to MetaMask to proceed",
+        "please-log-in-to-trust": "Please log in to Trust to proceed",
+        "switch-to-mainnet": "Switch to Mainnet",
+        "use-trust-wallet": "Use Trust Wallet",
+        "we-recommend-trust-wallet": "Your need an Ethereum app to play our games — we recommend Trust Wallet",
+        "you-need-web3": "You need a Web3-compatible wallet to play our games"
+      },
+      "bets": {
+        "max": "max"
+      }
+    },
+    "fair-play": {
+      "text": ""
+    },
+    "rules": {
+      "text": ""
+    },
+    "home": {
+      "double": "Double field",
+      "ten": "Ten people field",
+      "hundred": "Hundreds of people",
+      "thousand": "Thousand people",
+      "lottery": "{count} people can draw the prize",
+      "h1": "Ethereum  De centralized intelligent contract entertainment platform",
+      "h2": "Proven fairness betting games are supported by simple open source contracts and have a 24-hour grand prize",
+      "play-now": "Play now",
+      "go-now": "Go now",
+      "24h": {
+        "countdown": "Countdown to the draw:",
+        "jackpot": "Recent jackpot",
+        "top-winnners": "Yesterday's grand prize winners",
+        "new-wagers": "Latest winning user",
+        "winnners-by": "won {prize} ETH"
+      }
+    }
+  },
+  "common": {
+    "betType2": "Double field",
+    "betType10": "Ten people field",
+    "betType100": "Hundreds of people",
+    "betType1000": "Thousand people",
+    "ultimatePrize": "Ultimate award"
   }
 }

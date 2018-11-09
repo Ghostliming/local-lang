@@ -1,319 +1,475 @@
-page.title
-Fomo3D
+quickaward
+quickaward - 以太坊去中心化的智能合约娱乐平台
+quickaward - Ethereum  De centralized intelligent contract entertainment platform
+quickaward - 以太坊去中心化的智能合約娛樂平台
+Quickaward - Ethereumの分散スマート契約エンターテインメントプラットフォーム
+Quickaward - Ethereum의 분산 스마트 계약 엔터테인먼트 플랫폼
+
+components.ethers.currency-name
+以太币
+ETH
+以太幣
+エテリアム
+에테르
+
+components.footer.blockhain-friends
+区块链 & 朋友
+Blockchain & friends
 
 
-page.soon
-F3D:SOON
 
 
-page.long
-F3D: Long
+components.footer.email
+电子邮件
+Email
 
 
-page.registName
-Register a name
 
 
-page.registNewName
-Register a new name
+components.footer.featured-on
+特色
+Featured on
 
 
-page.copy
-Copy
 
 
-page.community
-Community
+components.footer.network
+网络：{network}
+Network: {network}
 
 
-page.tutorials
-Tutorials
 
 
-page.teams
-Team JUST
+components.footer.our-games
+我们的游戏
+Our games
 
 
-page.copyright
-All Rights Reserved.
 
 
-page.misc.title
-Misc
+components.footer.reach-out
+联系我们
+Reach out to us
 
 
-page.misc.wiki
-WIKI: Quick Start Guide
 
 
-page.misc.contract
-Contract (F3D Long)
+components.footer.smart-contract
+智能合约
+Smart contract
 
 
-page.misc.abc
-ABC
 
 
-page.misc.advice
-Advice-Kit
+components.footer.your-balance
+您的余额
+Your balance 
 
 
-page.content.title
-EXIT SCAMMING
 
 
-page.content.subtitle
-someone else is
+components.top-bar.fair-play
+常见问题
+FAQ
 
 
-page.content.getOne
-click it or miss it
 
 
-page.content.buyico
-Buy a key to start a new ICO
+components.top-bar.games
+游戏
+Games
 
 
-page.purchase.title
-Purchase
 
 
-page.purchase.keyring
-Keyring
+components.top-bar.address
+地址
+Address
 
 
-page.purchase.tips
-Purchases of .1 ETH or more have a 1.4% chance to win some of the 0.36 ETH airdrop pot, instantly!
 
 
-page.purchase.sendEth
-Send ETH
+components.top-bar.rules
+游戏规则
+Game Rules
 
 
-page.purchase.useVault
-Use Vault
 
 
-page.purchase.sendTip
-Send eth, or use earnings from your vault!
-
-
-page.vault.title
-Vault
-
-
-page.vault.subtitle
-Vault
-
-
-page.vault.lockdonw
-On Lockdown
-
-
-page.vault.scammed
-Exit Scammed
-
-
-page.vault.advice
-Bad Advice
-
-
-page.vault.total
-Total Gains
-
-
-page.vault.withdraw
+components.top-bar.withdraw
+提现
 Withdraw
 
 
-page.vanity.title
-Vanity & Referrals
 
 
-page.vanity.subtitle
-Advisory Board
+containers.common.prizepool.total
+累计奖池
 
 
-page.vanity.tips
-Advise others to invest in this exit scam and we'll reward you 10% of everything they lose. In Ethereum.
 
 
-page.vanity.wallet
-Wallet Referral 
 
+containers.common.prizepool.winning-bet-prize
+获奖可得
+Winning the prize
 
-page.vanity.anyonmous
-Anyonmous Referral
 
 
-page.vanity.vanity
-Vanity Referral
 
+containers.common.prizepool.split-prize
+5人平分奖池
+5 people split the prize pool
 
-page.round.title
-Round
 
 
-page.round.subtitle
-Round
 
+containers.common.prizepool.winning-probability
+中奖概率
+Winning probability
 
-page.round.drain
-Contract will drain in 
 
 
-page.round.pot
-Active Pot
 
+containers.common.prizepool.part-in
+总共有{count}人参加游戏
+There are a total of {count} people participating in the game.
 
-page.round.keys
-Your Keys
 
 
-page.round.earning
-Your Earnings
 
+containers.common.game-play.submitted
+提交成功
+Submitted
 
-page.team.title
-Choose a Team
 
 
-page.team.snek.title
-Snek
 
+containers.common.game-play.confirmed
+下注确认成功
+Confirmed
 
-page.team.snek.subtitle
-Trickle down Divinomics
 
 
-page.team.snek.notice
-++ Most dividends
 
+containers.common.game-play.bet-confirmed
+投注已确认！等待开奖...... 
+Bet confirmed! Waiting for lottery...
 
-page.team.whale.title
-Whale
 
 
-page.team.whale.subtitle
-Feed on the greed of others.
 
+containers.common.game-play.bet-submitted
+投注已提交！等待以太坊...... 
+Bet submitted! Waiting for Ethereum...
 
-page.team.whale.notice
-++ Most eth to pot
 
 
-page.team.bull.title
-Bull
 
+containers.common.game-play.play-again
+再玩一次
+Play again
 
-page.team.bull.subtitle
-Break upwards, never stagnate.
 
 
-page.team.bull.notice
-++ Balanced distribution
 
+containers.common.game-play.please-confirm-your-tx
+请确认投注交易
+Please confirm bet transaction
 
-page.team.bear.title
-Bear
 
 
-page.team.bear.subtitle
-Stand alone, fight alone.
 
+containers.common.game-play.you-lost
+您输了:(
+You lost :(
 
-page.team.bear.notice
-++ Maximize eth to current round
 
 
-page.steams.title
-Teams
 
+containers.common.game-play.you-rejected-bet-request
+您拒绝了下注请求:(
+You rejected bet request :(
 
-page.recent.title
-Recent Players
 
 
-page.recent.subtitle
-Recent Players
 
+containers.common.game-play.you-won
+您赢了！
+You won!
 
-page.recent.player
-Player
 
 
-page.recent.team
-Team
 
+containers.common.history.currentList
+<span>{buyer}</span><span>购买了</span><span class="high-roller">{ticket}</span><span>个TICKET</span>
+<span>{buyer}</span><span>bought</span><span class="high-roller">{ticket}</span><span>TICKET</span>
 
-page.recent.amount
-Amount
 
 
-page.recent.comming
-Comming soon
 
+containers.common.history.historyRound
+<span>{time}</span><span>{winner}</span><span>中奖</span><span class="high-roller">{prize}</span><span>ETH</span>
+<span>{time}</span><span>{winner}</span><span>won</span><span class="high-roller">{prize}</span><span>ETH</span>
 
-page.stats.title
-Stats
 
 
-page.stats.subtitle
-Stats for Round
 
+containers.common.metamask-hint.title
+请检查您的Metamask并确认待处理的交易。
+Please check your Metamask and confirm a pending transaction.
 
-page.stats.current
-Current
 
 
-page.stats.invested
-Total Invested:
 
+containers.common.place-bet.button
+购买TICKET
+BUY TICKET
 
-page.stats.rewards
-Distributed Rewards:
 
 
-page.stats.purchased
-Time Purchased:
 
+containers.common.web3-required.get-metamask
+获取MetaMask
+Get MetaMask
 
-notice.invalidData
-Invalid Parameter
-参数不合法
 
-notice.sendWithdraw
 
-提现请求已发送，请等待到账
 
-notice.successTrad
+containers.common.web3-required.install-metamask
+安装MetaMask
+Install MetaMask
 
-交易发起成功
 
-notice.copySuccess
 
-复制成功
 
-notice.checkMetamask
+containers.common.web3-required.log-in-to-metamask
+登录MetaMask
+Log in to MetaMask
 
-请检查您的Metamaks连接状态，并解锁
 
-notice.installMetamask
 
-请安装Metamasky以获取良好体验
 
-notice.connectNetwork
+containers.common.web3-required.log-in-to-trust
+登录Trust
+Log in to Trust
 
-请连接到主网，并刷新页面。
 
-notice.unlockMetamask
 
-请解锁Metamask，并连接到网络。
 
-notice.connectedTestNetwork
+containers.common.web3-required.open-in-trust-wallet
+在Trust Wallet中打开
+Open in Trust Wallet
 
-已连接到测试网络
 
-notice.notFound
-404 Not Found
-404 页面未找到
+
+
+containers.common.web3-required.our-games-are-on-mainnet
+我们的游戏仅在主网上提供 - 请通过Metamask进行切换
+Our games are available on mainnet only – please switch via Metamask
+
+
+
+
+containers.common.web3-required.our-games-are-on-mainnet-settings
+我们的游戏仅在主网上提供 - 请更改您的设置
+Our games are available on mainnet only – please change your settings
+
+
+
+
+containers.common.web3-required.please-log-in-to-metamask
+请登录MetaMask以继续
+Please log in to MetaMask to proceed
+
+
+
+
+containers.common.web3-required.please-log-in-to-trust
+请登录Trust以继续
+Please log in to Trust to proceed
+
+
+
+
+containers.common.web3-required.switch-to-mainnet
+切换到主网
+Switch to Mainnet
+
+
+
+
+containers.common.web3-required.use-trust-wallet
+使用Trust Wallet
+Use Trust Wallet
+
+
+
+
+containers.common.web3-required.we-recommend-trust-wallet
+您需要一个以太坊应用来玩我们的游戏 - 我们推荐Trust Wallet
+Your need an Ethereum app to play our games — we recommend Trust Wallet
+
+
+
+
+containers.common.web3-required.you-need-web3
+您需要一个兼容Web3的钱包来玩我们的游戏
+You need a Web3-compatible wallet to play our games
+
+
+
+
+containers.fair-play.text
+<h1><a href=\"/\"> quickaward </a>是否可以证明其公平性？</h1><p>是的。 整个游戏玩法都由以太坊<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Ethereum#Smart_contracts\">智能合约</a>进行控制，它会根据运营商的输入以及区块链数据(区块哈希)计算随机数。 任何一方都可以对合约进行审核，并检查任何交易，确保zihuatan.io以及恶意玩家都不会影响结果。</p><h1>您与博彩网站有什么不同？</h1><p><a href=\"/\"> quickaward.win </a> 只是⼀个提供给⽤用户玩游戏的⼀一个平台，在<a href=\"/\"> quickaward.win </a>上进行下注的交易费用要低得多。 我们的游戏非常简单易懂，并且我们每日有大奖提供。</p><p>当然，我们还提供大奖！</p><h1>我们将尽可能用通俗易易懂的方式向大家解释下它是如何运作的。</h1><p>在这个问题上，我们必须要说点技术性的东西：<ol><li> quickaward.win 会选择一个秘密的随机数，并为您提供它的<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Cryptographic_hash_function\">哈希</a>。</li><li>您把以太网交易中的赌注与上一步中的哈希一起发送至我们的智能合约。</li><li>此时，在您选择结果之前，quickaward.win已经承诺了一个数字。</li><li>一旦您的交易被网络确认，该合约将会存储哈希以及投注详细信息。</li><li>我们的庄家机器人会通过发送投注结算交易来“揭晓”该数字。</li><li>当且仅当提供的数字的哈希与存储的哈希相同时，合约才会接受该交易。</li><li>合约会把下注交易的数量和区块哈希进行混合以获得一个随机数。</li><li>合约会决定您是赢还是输，并向您发送您所赢取的以太币。</li></ol><h1><a href='/'>quickaward.win</a>是否可以篡改结果？</h1><p> 不可以，因为合约记录了秘密数字的哈希，这就意味着运营商在接受赌注后就无法更改数字。 将区块哈希与数字进行混合，这使得其结果完全是随机的，不允许矿工们耍花招来赢取赌注。 另一方面，由于区块哈希组件，quickaward.win本身无法控制投注结果。 这就是众所周知的<a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Commitment_scheme\">“承诺方案”</a>，它使quickaward.win能够提供博彩级的随机数生成，可以进行大赌注、累积大奖以及快速结算，同时完全透明。</p><h1>费用是多少？</h1><p>每次下注时(除了每日大奖)， quickaward.win 均会扣除8％(但不低于0.0003 以太幣)，(以帮助我们支付账单并使游戏可以运行），并且，其中⼿手续费的8%中的3%会累积在 每⽇日的⼤大奖奖池中，以便便每⽇日开出⼤大奖</p><h2>祝您玩得愉快！</h2>
+
+
+
+
+
+containers.rules.text
+<h1>quickaward.win的所有游戏⾥里里每一张票价值0.01ETH</h1><h1>双人场</h1><p>两人对赌，决一胜负，每人投注一张票，再通过智能合约的随机数算法决定谁获胜。</p><h1>十人场</h1><p>⼀场要求十张票，买够即开，每人最低投注1张票，最⾼高投注8张票，再通过智能合约的随机数算法决定谁获胜。</p><h1>百人场</h1><p>⼀场要求一百张票，买够即开，每人最低投注1张票，上⽆封顶，再通过智能合约的随机数算法决定谁获胜。</p><h1>千人场</h1><p>一场要求一千张票，买够即开，每⼈最低投注1张票，上无封顶，再通过智能合约的随机数算法决定谁获胜。</p><h1>超级大奖</h1><p>凡是参与<ahref='/'>quickaward.win</a>里任何⼀场游戏的⽤户均有机会瓜分每日的超级⼤大奖。每⽇的超级大奖的奖池来源由每⼀个投注的3%所累积的。</p><h2>祝您玩得愉快！</h2>
+
+
+
+
+
+containers.home.double
+双人场
+Double field
+
+
+
+
+containers.home.ten
+十人场
+Ten people field
+
+
+
+
+containers.home.hundred
+百人场
+Hundreds of people
+
+
+
+
+containers.home.thousand
+千人场
+Thousand people
+
+
+
+
+containers.home.lottery
+还差{count}人即可开奖
+{count} people can draw the prize
+
+
+
+
+containers.home.h1
+以太坊去中心化的智能合约娱乐平台
+Ethereum  De centralized intelligent contract entertainment platform
+
+
+
+
+containers.home.h2
+可被证明的公平性博彩游戏由简单的开源合约提供支持,并有24小时大奖
+Proven fairness betting games are supported by simple open source contracts and have a 24-hour grand prize
+
+
+
+
+containers.home.play-now
+现在开始游戏
+Play now
+
+
+
+
+containers.home.go-now
+立即前往
+Go now
+
+
+
+
+containers.home.24h.countdown
+开奖倒计时:
+Countdown to the draw:
+
+
+
+
+containers.home.24h.jackpot
+最近的大奖
+Recent jackpot
+
+
+
+
+containers.home.24h.top-winnners
+昨日大奖中奖用户
+Yesterday's grand prize winners
+
+
+
+
+containers.home.24h.new-wagers
+最新中奖用户
+Latest winning user
+
+
+
+
+containers.home.24h.winnners-by
+获得了{prize} ETH 
+won {prize} ETH
+
+
+
+
+containers.common.bets.max
+最大
+max
+
+
+
+
+common.betType2
+双人场
+Double field
+
+
+
+
+common.betType10
+十人场
+Ten people field
+
+
+
+
+common.betType100
+百人场
+Hundreds of people
+
+
+
+
+common.betType1000
+千人场
+Thousand people
+
+
+
+
+common.ultimatePrize
+终极大奖
+Ultimate award
+
+
+
